@@ -1,0 +1,19 @@
+{
+  "name": "cassandra-persister",
+  "version": "1.0.0",
+  "description": "A persister utility or cassandra DB, uses native Data Stax driver as it's underlay.",
+  "main": "cassandra-persister.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cassandra",
+    "DB",
+    "persister"
+  ],
+  "author": "Vibhanshu.Shukla",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^4.4.0"
+  }
+}
